@@ -8,14 +8,14 @@
 
 | # | נושא | פתיחה |
 |---|---|---|
-| 1 | היכרות עם הסביבה | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/01_chapter1.ipynb) |
-| 2 | צעדים ראשונים | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/02_chapter2.ipynb) |
-| 3 | מבני נתונים ולולאות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/03_chapter3.ipynb) |
-| 4 | פונקציות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/04_chapter4.ipynb) |
-| 5 | קבצים: קריאה, כתיבה, csv ו-json | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/05_chapter5.ipynb) |
-| 6 | הדמיה: גרפים והיסטוגרמות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/06_chapter6.ipynb) |
-| 7 | פונקציות מתמטיות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/07_chapter7.ipynb) |
-| 8 | סימולציות ומספרים רנדומליים | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/__USER__/python-for-medicine/blob/main/notebooks/08_chapter8.ipynb) |
+| 1 | היכרות עם הסביבה | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/01_chapter1.ipynb) |
+| 2 | צעדים ראשונים | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/02_chapter2.ipynb) |
+| 3 | מבני נתונים ולולאות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/03_chapter3.ipynb) |
+| 4 | פונקציות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/04_chapter4.ipynb) |
+| 5 | קבצים: קריאה, כתיבה, csv ו-json | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/05_chapter5.ipynb) |
+| 6 | הדמיה: גרפים והיסטוגרמות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/06_chapter6.ipynb) |
+| 7 | פונקציות מתמטיות | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/07_chapter7.ipynb) |
+| 8 | סימולציות ומספרים רנדומליים | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eilaydror-star/python-for-medicine/blob/main/notebooks/08_chapter8.ipynb) |
 
 ## איך עובדים
 
